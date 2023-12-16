@@ -118,6 +118,9 @@ footer{
         background-color: rgba(189, 241, 151, 0.395);
         text-shadow:5px 2px rgba(199, 233, 152, 0.598);
     }
+    footer{
+        background-color: rgb(189, 241, 151);
+    }
 }
 
 
