@@ -9,6 +9,9 @@
     object-fit: cover;
     z-index:-1; 
 }
+body{
+    overflow-x: hidden;
+}
 nav{
     display: flex;
     background-color: rgb(241, 202, 151);
@@ -25,7 +28,6 @@ nav{
     flex-direction: column;
     justify-content: space-between;
     align-content: space-between;
-    overflow-x: hidden;
 }
 .links a{
     text-decoration: none;
