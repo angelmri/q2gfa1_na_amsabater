@@ -78,7 +78,6 @@ footer{
 
 @media screen and (max-width: 900px){
     nav{ 
-        position: relative;
         background-color: rgb(189, 241, 151);
     }
     .pagetitle{ 
