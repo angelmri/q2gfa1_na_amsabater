@@ -68,9 +68,9 @@ footer{
     text-align: center;
     display: inline-block;
     bottom: 0vw;
-    background-color: rgba(241, 202, 151, 0);
+    background-color: rgba(241, 202, 151);
     width: 100vw;
-    margin-top: 20vw;
+    margin-top: 15vw;
 }
 
 @media screen and (max-width: 900px){
