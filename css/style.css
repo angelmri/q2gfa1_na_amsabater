@@ -1,7 +1,6 @@
 *{
     padding: 0px;
     margin: 0px;
-    overflow-x: hidden;
 }
 #vidbg{ 
     width: 100vw;
@@ -26,6 +25,7 @@ nav{
     flex-direction: column;
     justify-content: space-between;
     align-content: space-between;
+    overflow-x: hidden;
 }
 .links a{
     text-decoration: none;
@@ -75,6 +75,7 @@ footer{
 }
 
 @media screen and (max-width: 900px){
+    overflow-x: hidden;
     nav{ 
         position: relative;
         background-color: rgb(189, 241, 151);}
