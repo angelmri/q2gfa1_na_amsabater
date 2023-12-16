@@ -66,12 +66,11 @@ nav{
 
 footer{
     text-align: center;
-    display: block;
-    position: relative;
+    display: flex;
     bottom: 0vw;
     background-color: rgb(241, 202, 151);
     width: 100vw;
-    margin-top: 10vw;
+    margin-top: 20vw;
 }
 
 @media screen and (max-width: 900px){
