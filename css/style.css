@@ -52,7 +52,7 @@ nav{
     color: rgb(48, 41, 30);
 }
 .icon{
-    background: url(media/sprite3.png);
+    background: url(../media/sprite3.png);
     background-repeat: no-repeat;  
     width: 66px;
     height: 66px;
@@ -67,7 +67,7 @@ nav{
 footer{
     text-align: center;
     display: block;
-    position: fixed;
+    position: relative;
     bottom: 0vw;
     background-color: rgb(241, 202, 151);
     width: 100vw;
