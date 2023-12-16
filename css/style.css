@@ -11,7 +11,6 @@
 }
 nav{
     display: flex;
-    position: fixed;
     background-color: rgb(241, 202, 151);
     justify-content: space-around;
     box-shadow: 0px 8px 16px 0px rgba(212, 190, 103, 0.2);
@@ -68,7 +67,6 @@ nav{
 footer{
     text-align: center;
     display: inline-block;
-    position: fixed;
     bottom: 0vw;
     background-color: rgba(241, 202, 151);
     width: 100vw;
